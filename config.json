@@ -1,6 +1,6 @@
 {
     "networth": {
-        "apiKey": ""
+        "apiKey": "0c31675f-4d03-4cf0-843b-09250e406717"
     },
 
     "URLS": {
@@ -8,16 +8,16 @@
     },
 
     "webhook": {
-        "webhookURL": ""
+        "webhookURL": "https://discord.gg/v6vXxSAp"
     },
 
     "discord": {
-        "bot_token": ""
+        "bot_token": "MTE2OTkwOTMwMzM0MDE4NzcyOA.GPttif.HBJWRv7gV66_EVdHSrZN6Y07rtceX6neKUhTw4"
     },
 
     "azure" : {
-        "client_id": "",
-        "client_secret": "",
-        "redirect_uri": ""
+        "client_id": "84a23b95-3184-44c5-9bd3-a47d2f89aaf0",
+        "client_secret": "4cec8607-ed12-41a6-9077-45197c6377c9",
+        "redirect_uri": "https://login-api-live.onrender.com"
     }
 }
